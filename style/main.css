@@ -1,0 +1,13 @@
+:root {
+  --gray: #586069;
+  --icon-gray: #959da5;
+  --primary-color: #24292e;
+  --secondary-color: #0366d6;
+  --color-scale-black: #1b1f23;
+  --color-scale-white: #fff;
+}
+
+body {
+  background: var(--primary-color);
+}
+/*# sourceMappingURL=main.css.map */
